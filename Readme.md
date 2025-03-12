@@ -40,7 +40,7 @@ This project performs **Exploratory Data Analysis (EDA)** on a dataset, includin
 
 ## **3️⃣ Outlier Detection & Treatment**  
 - **Interquartile Range (IQR) method** was used to detect outliers.  
-- Two approaches for handling outliers:  
+- Approaches for handling outliers:  
   ✅ **Removing them** (strict cleaning).  
 
 ---
