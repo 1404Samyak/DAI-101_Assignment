@@ -1,8 +1,3 @@
-This repo consists my assignment of the course DAI-101
-Sure! Here’s the **README** in a text format that you can copy easily:  
-
----
-
 # **Exploratory Data Analysis (EDA) Report**  
 
 ## **Project Overview**  
@@ -57,5 +52,3 @@ This project performs **Exploratory Data Analysis (EDA)** on a dataset, includin
 - **Outliers were detected and treated** to improve model performance.  
 
 ---
-
-You can **copy-paste** this directly into your **README.md** file. Let me know if you need any changes! 🚀
